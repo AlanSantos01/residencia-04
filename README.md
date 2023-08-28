@@ -2,7 +2,7 @@
 
 # Membros da equipe
 
-dev1 -  <br/>
+dev1 - Alan Carlos <br/>
 dev2 -  <br/>
 dev3 -  <br/>
 dev4 -  <br/>
