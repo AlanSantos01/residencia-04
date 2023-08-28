@@ -1,8 +1,9 @@
 # residencia-04
 
 # Membros da equipe
-dev1 -
-dev2 -
-dev3 -
-dev4 -
-dev5 -
+
+dev1 -  <br/>
+dev2 -  <br/>
+dev3 -  <br/>
+dev4 -  <br/>
+dev5 -  <br/>
