@@ -1,8 +1,8 @@
 # residencia-04
 
 # Membros da equipe
-dev1 -
-dev2 -
-dev3 -
+dev1 - Alan Carlos
+dev2 - Álvaro Maciel
+dev3 - Luiz Felipe Gomes
 dev4 -
-dev5 -
+dev5 - 
